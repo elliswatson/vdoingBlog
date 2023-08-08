@@ -1,25 +1,25 @@
 ---
 home: true
-# heroImage: /img/web.png
-heroText: 麋鹿鲁哟
+heroImage: /img/20230623122843.png
+heroText: elliswatson
 tagline: 运气交给锦鲤，你只管努力就好。
 # actionText: 立刻进入 →
 # actionLink: /web/
 bannerBg: custom #custom自定义 # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 前端
-    details: JS、ES6、Vue框架等前端技术
+  - title: 随笔
+    details: 大杂烩，技术随笔记录
     link: /web/ # 可选
-    imgUrl: /img/1.png # 可选
+    imgUrl: /img/6.jpg # 可选
   - title: 技术
     details: 技术文档、教程、技巧、总结等文章
     link: /technology/
-    imgUrl: /img/2.png
-  - title: 面试
-    details: 题目及答案总结等
-    link: /interview/
-    imgUrl: /img/3.png
+    imgUrl: /img/4.jpg 
+  - title: 读书派 #Plog
+    details: 总有一本书走进你的心里  #题目及答案总结等
+    link: /bookssent  #/interview/
+    imgUrl: /img/5.jpg 
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
