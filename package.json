@@ -26,5 +26,19 @@
   },
   "dependencies": {
     "vuepress-plugin-comment": "^0.7.3"
-  }
+  },
+  "description": "<<<<<<< HEAD\r # elliswatson.github.io/vdoingBlog/\r =======\r # elliswatson.github.io/vdoingBlog\r >>>>>>> 981901acd6f1744e822e67aecbe0f11742d409d4\r 一个记录自己的技能树的博客\r [点此在线浏览](https://elliswatson.github.io/vdoingBlog/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliswatson/vdoingBlog.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/elliswatson/vdoingBlog/issues"
+  },
+  "homepage": "https://github.com/elliswatson/vdoingBlog#readme"
 }
