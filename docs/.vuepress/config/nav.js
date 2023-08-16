@@ -6,7 +6,7 @@ module.exports = [
     link: '/web/', 
     items: [
       {text: '学习笔记', items:[
-        {text: '《Git 基础》', link: '/note/git/'},
+        {text: '《Git》笔记', link: '/note/git/'},
         {text: '《C++》笔记', link: '/note/CPLUS/'}
       ]},
     ]
